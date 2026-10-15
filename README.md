@@ -2,7 +2,7 @@
 This is a repository for various publicly-available documents and notes related to APT, sorted by year. For malware sample hashes, please see the individual reports.
 
 [![Join the chat at https://gitter.im/kbandla/APTnotes](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kbandla/APTnotes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+d
  * [Data](https://github.com/aptnotes/data) repo makes it easier for automation
  * To add new reports, please create a [new issue](https://github.com/aptnotes/data/issues)
  * For more information, see the new [README](https://github.com/aptnotes/data/blob/master/README.md)
